@@ -1,0 +1,1 @@
+query_id=AAESCXk3AwAAABIJeTedoDLq&user=%7B%22id%22%3A7373130002%2C%22first_name%22%3A%22Nobody%20Get%27s%20Me%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22YouAreMyIdol%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728903255&hash=dc4e762c32e60f5c6f36115f9df4a0ef1f4a54d294cb19a7b8bba58c77718f8c
